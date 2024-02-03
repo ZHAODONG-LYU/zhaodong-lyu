@@ -1,4 +1,4 @@
-Hello, people
+Hello
 <!--
 # Zhaodong Lyu
 ### Hi there 
